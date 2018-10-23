@@ -1,0 +1,7 @@
+C:\Users\braul\source\repos\P1.Gauss-Seidel\P1.Gauss-Seidel\bin\Debug\P1.Gauss-Seidel.exe.config
+C:\Users\braul\source\repos\P1.Gauss-Seidel\P1.Gauss-Seidel\bin\Debug\P1.Gauss-Seidel.exe
+C:\Users\braul\source\repos\P1.Gauss-Seidel\P1.Gauss-Seidel\bin\Debug\P1.Gauss-Seidel.pdb
+C:\Users\braul\source\repos\P1.Gauss-Seidel\P1.Gauss-Seidel\obj\Debug\P1.Gauss-Seidel.csprojResolveAssemblyReference.cache
+C:\Users\braul\source\repos\P1.Gauss-Seidel\P1.Gauss-Seidel\obj\Debug\P1.Gauss-Seidel.csproj.CoreCompileInputs.cache
+C:\Users\braul\source\repos\P1.Gauss-Seidel\P1.Gauss-Seidel\obj\Debug\P1.Gauss-Seidel.exe
+C:\Users\braul\source\repos\P1.Gauss-Seidel\P1.Gauss-Seidel\obj\Debug\P1.Gauss-Seidel.pdb
