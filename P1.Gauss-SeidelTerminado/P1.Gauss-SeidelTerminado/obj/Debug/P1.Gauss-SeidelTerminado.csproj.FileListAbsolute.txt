@@ -1,0 +1,7 @@
+C:\Users\braul\source\repos\P1.Gauss-SeidelTerminado\P1.Gauss-SeidelTerminado\bin\Debug\P1.Gauss-SeidelTerminado.exe.config
+C:\Users\braul\source\repos\P1.Gauss-SeidelTerminado\P1.Gauss-SeidelTerminado\bin\Debug\P1.Gauss-SeidelTerminado.exe
+C:\Users\braul\source\repos\P1.Gauss-SeidelTerminado\P1.Gauss-SeidelTerminado\bin\Debug\P1.Gauss-SeidelTerminado.pdb
+C:\Users\braul\source\repos\P1.Gauss-SeidelTerminado\P1.Gauss-SeidelTerminado\obj\Debug\P1.Gauss-SeidelTerminado.csprojResolveAssemblyReference.cache
+C:\Users\braul\source\repos\P1.Gauss-SeidelTerminado\P1.Gauss-SeidelTerminado\obj\Debug\P1.Gauss-SeidelTerminado.csproj.CoreCompileInputs.cache
+C:\Users\braul\source\repos\P1.Gauss-SeidelTerminado\P1.Gauss-SeidelTerminado\obj\Debug\P1.Gauss-SeidelTerminado.exe
+C:\Users\braul\source\repos\P1.Gauss-SeidelTerminado\P1.Gauss-SeidelTerminado\obj\Debug\P1.Gauss-SeidelTerminado.pdb
