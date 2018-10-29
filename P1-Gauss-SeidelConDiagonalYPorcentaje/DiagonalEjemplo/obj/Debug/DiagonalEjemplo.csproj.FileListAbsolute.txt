@@ -1,0 +1,7 @@
+c:\users\braul\source\repos\DiagonalEjemplo\DiagonalEjemplo\bin\Debug\DiagonalEjemplo.exe.config
+c:\users\braul\source\repos\DiagonalEjemplo\DiagonalEjemplo\bin\Debug\DiagonalEjemplo.exe
+c:\users\braul\source\repos\DiagonalEjemplo\DiagonalEjemplo\bin\Debug\DiagonalEjemplo.pdb
+c:\users\braul\source\repos\DiagonalEjemplo\DiagonalEjemplo\obj\Debug\DiagonalEjemplo.csprojResolveAssemblyReference.cache
+c:\users\braul\source\repos\DiagonalEjemplo\DiagonalEjemplo\obj\Debug\DiagonalEjemplo.csproj.CoreCompileInputs.cache
+c:\users\braul\source\repos\DiagonalEjemplo\DiagonalEjemplo\obj\Debug\DiagonalEjemplo.exe
+c:\users\braul\source\repos\DiagonalEjemplo\DiagonalEjemplo\obj\Debug\DiagonalEjemplo.pdb
