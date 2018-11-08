@@ -1,0 +1,7 @@
+c:\users\braul\source\repos\DiferenciacionNumerica\DiferenciacionNumerica\bin\Debug\DiferenciacionNumerica.exe.config
+c:\users\braul\source\repos\DiferenciacionNumerica\DiferenciacionNumerica\bin\Debug\DiferenciacionNumerica.exe
+c:\users\braul\source\repos\DiferenciacionNumerica\DiferenciacionNumerica\bin\Debug\DiferenciacionNumerica.pdb
+c:\users\braul\source\repos\DiferenciacionNumerica\DiferenciacionNumerica\obj\Debug\DiferenciacionNumerica.csprojResolveAssemblyReference.cache
+c:\users\braul\source\repos\DiferenciacionNumerica\DiferenciacionNumerica\obj\Debug\DiferenciacionNumerica.csproj.CoreCompileInputs.cache
+c:\users\braul\source\repos\DiferenciacionNumerica\DiferenciacionNumerica\obj\Debug\DiferenciacionNumerica.exe
+c:\users\braul\source\repos\DiferenciacionNumerica\DiferenciacionNumerica\obj\Debug\DiferenciacionNumerica.pdb
